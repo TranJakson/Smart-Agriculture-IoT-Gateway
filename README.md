@@ -6,7 +6,8 @@
 * **Hardware:** Designed a 2-layer data acquisition and control board integrating an ATmega32 (Core processing) and an ESP8266 (Wi-Fi module).
 * **Firmware:** Developed bare-metal C firmware managing multiple peripherals. Utilized UART for MCU-to-MCU communication, I2C for LCD interfaces, and SPI for OLED local monitoring.
 * **IoT & Cloud:** Configured the ESP8266 to parse and transmit JSON payloads to Firebase Realtime Database.
-* **User Interface:** Built a responsive Web Dashboard using HTML, CSS, and JavaScript.
+* **User Interface:
+  * Built a responsive Web Dashboard using HTML, CSS, and JavaScript.
   * Developed a mobile Android application using MIT App Inventor for seamless manual/auto mode control.
 
 ## 📋 Hardware Resources
