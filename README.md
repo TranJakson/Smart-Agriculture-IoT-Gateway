@@ -18,9 +18,9 @@
 | Interface | Image |
 | :--- | :--- |
 | **Web Dashboard** | ![Web Home](Images/App_Web/Web_Home.png) |
+| **Web Relay Control** | ![Relay Control](Images/App_Web/Manual_Control_Relay.png) |
 | **Mobile App - Auto Mode** | ![App Auto](Images/App_Web/App_AutoMode.png) |
 | **Mobile App - Manual Mode** | ![App Manual](Images/App_Web/App_ManualMode.png) |
-| **Web Relay Control** | ![Relay Control](Images/App_Web/Manual_Control_Relay.png) |
 
 ## 🛠️ Hardware Design
 
