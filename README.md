@@ -25,8 +25,7 @@
 
 | View | Image |
 | :--- | :--- |
-| **3D PCB Render (Top)** | ![3D Top](Images/3D/Top.png) |
-| **3D PCB Render (Bottom)** | ![3D Bot](Images/3D/Bot.png) |
-| **PCB Layout (2D)** | ![Layout](Images/Layout/Layout.png) |
-| **System Schematic** | ![Schematic](Images/Schematic/Schematic.png) |
-| **Real Board Working** | *(Bạn có thể thêm ảnh chụp mạch thật đang sáng đèn vào đây sau)* |
+| **3D PCB Render (Top)** | ![3D Top](Images/3D/3D_Top.png) |
+| **3D PCB Render (Bottom)** | ![3D Bot](Images/3D/3D_Bot.png) |
+| **PCB Layout Top** | ![Layout](Images/Layout/Top_Layout.png) |
+| **PCB Layout Top** | ![Layout](Images/Layout/Bot_Layout.png) |
