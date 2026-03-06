@@ -11,7 +11,7 @@
   * Developed a mobile Android application using MIT App Inventor for seamless manual/auto mode control.
 
 ## 📋 Hardware Resources
-* 📄 **System Schematic (PDF):** [View Schematic PDF](Schematic_Smart_Agri.pdf)
+* 📄 **System Schematic (PDF):** [View Schematic PDF](Schemati.pdf)
 * 📊 **Bill of Materials (BOM):** [View BOM File](Bom.pdf)
 
 ## 💻 Software & User Interface
