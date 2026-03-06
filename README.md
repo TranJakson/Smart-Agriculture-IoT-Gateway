@@ -10,7 +10,8 @@
   * Developed a mobile Android application using MIT App Inventor for seamless manual/auto mode control.
 
 ## 📋 Hardware Resources
-* **Bill of Materials:** [View BOM File](Bom.pdf)
+* 📄 **System Schematic (PDF):** [View Schematic PDF](Schematic_Smart_Agri.pdf)
+* 📊 **Bill of Materials (BOM):** [View BOM File](Bom.pdf)
 
 ## 💻 Software & User Interface
 
@@ -28,4 +29,4 @@
 | **3D PCB Render (Top)** | ![3D Top](Images/3D/3D_Top.png) |
 | **3D PCB Render (Bottom)** | ![3D Bot](Images/3D/3D_Bot.png) |
 | **PCB Layout Top** | ![Layout](Images/Layout/Top_Layout.png) |
-| **PCB Layout Top** | ![Layout](Images/Layout/Bot_Layout.png) |
+| **PCB Layout Bottom** | ![Layout](Images/Layout/Bot_Layout.png) |
